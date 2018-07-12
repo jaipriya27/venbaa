@@ -1,0 +1,24 @@
+<html>
+<head>
+<h1  style="font-size:50px; text-align:center;">BLOOD BANK</h1>                                                                                                                               
+</head>
+<body  style="background-color:DodgerBlue;">
+<center>
+<img src="C:/Users/dell1/Desktop/bb.jpg" width="180"  height="150">
+</center>
+<hr>
+<marquee  style="color:red; font-size:40px;">GIVE BLOOD...GIVE LIFE....</marquee>
+<br><br>
+<h4 style="text-align:center;">
+  Username:
+  <input type="text" name="Username"></h4>
+<br><br>
+<h4 style="text-align:center;">
+  Password:
+<input type="text"  name="pwd" s></h4>
+<br><br>ss
+<h4 style="text-align:center;">
+<button>login</button></h4>
+
+</body>
+</html>
